@@ -1,0 +1,24 @@
+{
+  "originHash" : "a30adf2a980fd7090e56da5b66fc54cf21018964291e727aee2736526df53f2b",
+  "pins" : [
+    {
+      "identity" : "duckdb-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/duckdb/duckdb-swift.git",
+      "state" : {
+        "revision" : "26bcae65719a4919b0af6837c257e8f6fd538bd6",
+        "version" : "0.10.3"
+      }
+    },
+    {
+      "identity" : "richtextkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/danielsaidi/RichTextKit.git",
+      "state" : {
+        "revision" : "d390d66740161554095e3acbd27f84dc3dcc5b03",
+        "version" : "1.1.2"
+      }
+    }
+  ],
+  "version" : 3
+}
